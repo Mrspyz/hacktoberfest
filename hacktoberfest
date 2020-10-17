@@ -13,8 +13,8 @@ int main() {
            result += remainder * remainder * remainder;
      
         
-        // removing last digit from the orignal number
-        originalNum /= 10;
+    
+        originalNum = 10;
     }
 
     if (result == num)
